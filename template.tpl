@@ -10,10 +10,11 @@ ___INFO___
 
 {
   "type": "TAG",
+  "categories": "MARKETING",
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Convertpath by 500apps",
+  "displayName": "ConvertPath by 500apps",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -32,14 +33,14 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "TEXT",
     "name": "api_key",
-    "displayName": "Convertpath Key",
+    "displayName": "ConvertPath Key",
     "simpleValueType": true,
     "valueValidators": [
       {
         "type": "NON_EMPTY"
       }
     ],
-    "help": "Please copy the Convertpath Key from Website -\u003e Share/Copy script sidebar -\u003e Connections -\u003e Google Tag Manager at https://infinity.500apps.com/convertpath"
+    "help": "Please copy the ConvertPath Key from Website -\u003e Share/Copy script sidebar -\u003e Connections -\u003e Google Tag Manager at https://infinity.500apps.com/convertpath"
   }
 ]
 
@@ -126,6 +127,6 @@ scenarios:
 
 ___NOTES___
 
-Created on 10/11/2021, 12:43:20
+Created on 11/11/2021, 13:04:02
 
 

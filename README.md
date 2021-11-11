@@ -1,4 +1,4 @@
-# Convertpath by 500apps
+# ConvertPath by 500apps
 Get Started with a powerful platform to build a Smart Website Popups software for your website
 
 1. Sign in to your Google account.
@@ -15,27 +15,27 @@ Get Started with a powerful platform to build a Smart Website Popups software fo
 code snippet box and finish setting up the GTM manager and your first container.
 
 
-[Get Started](https://infinity.500apps.com/convertpath) to build interactive popups in [Convertpath](https://convertpath.com)
+[Get Started](https://infinity.500apps.com/convertpath) to build interactive popups in [ConvertPath](https://convertpath.com)
 
  
 ### Installation
-Adding the Convertpath tag to your website once you're logged in to your account with the container, it's time to add a new tag with the Convertpath tracking code inside it. To do so, follow these steps
+Adding the Convertpath tag to your website once you're logged in to your account with the container, it's time to add a new tag with the ConvertPath tracking code inside it. To do so, follow these steps
 
 1. In the Google Tag Manager Home, click on the New Tag tile.
 
-2. Click on the Tag Configuration tile and search for our community template 'Convertpath by 500apps (Smart Website Popups)' in the 'Community Template Gallery'.
+2. Click on the Tag Configuration tile and search for our community template 'ConvertPath by 500apps (Smart Website Popups)' in the 'Community Template Gallery'.
 
 3. Click on ‘Add to workspace’ to select the template and add it to your workspace
 
 4. After the template is added to your workspace, the tag is automatically added to your tag configuration.
 
-5. Find the randomly generated Convertpath key for the department in the share script slide bar, copy and place the key in the field provided in the Tag Configuration.
+5. Find the randomly generated ConvertPath key for the department in the share script slide bar, copy and place the key in the field provided in the Tag Configuration.
 
 6. Then navigate to “Triggering” and select “All Pages” in the provided list
 
 7. Save your tag and click on “Publish” so the tag information is pushed to the website through the GTM snippet previously pasted in your website.
 
-8. That’s it. You can now visit your website and start using Convertpath.
+8. That’s it. You can now visit your website and start using ConvertPath.
 
 
 ### Support
