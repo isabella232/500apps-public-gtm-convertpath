@@ -29,7 +29,7 @@ Adding the Convertpath tag to your website once you're logged in to your account
 
 4. After the template is added to your workspace, the tag is automatically added to your tag configuration.
 
-5. Find the randomly generated api key for the department in the share script side bar, copy and place the key in the field provided in the Tag Configuration.
+5. Find the generated api key for the department in the share script side bar, copy and place the key in the field provided in the Tag Configuration.
 
 6. Then navigate to “Triggering” and select “All Pages” in the provided list
 
