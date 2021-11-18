@@ -1,4 +1,4 @@
-# ConvertPath by 500apps
+# 500apps ConvertPath
 Get Started with a powerful platform to build a Smart Website Popups software for your website
 
 1. Sign in to your Google account.
@@ -23,7 +23,7 @@ Adding the Convertpath tag to your website once you're logged in to your account
 
 1. In the Google Tag Manager Home, click on the New Tag tile.
 
-2. Click on the Tag Configuration tile and search for our community template 'ConvertPath by 500apps (Smart Website Popups)' in the 'Community Template Gallery'.
+2. Click on the Tag Configuration tile and search for our community template '500apps ConvertPath (Smart Website Popups)' in the 'Community Template Gallery'.
 
 3. Click on ‘Add to workspace’ to select the template and add it to your workspace
 
