@@ -1,5 +1,5 @@
 # 500apps ConvertPath
-Get Started with a powerful platform to build a Smart Website Popups software for your website
+ConvertPath is an application for building smart website popups to personalise your website. One can create customised popups or use the in app templates to show a right message at the right time. One can create different types of popups like modal, noty, sitebar, js etc and configure settings like time, place and frequency a popup has to appear on a website. Popups help in capturing more leads and sales, improve subscription rates and increase visitors engagement. ConvertPath not only makes it easy to create and manage popups but also capture details of the website visitors who interacted with those popups. Get started by creating flows, adding actions and conditions to define the rules for interactive popups.
 
 1. Sign in to your Google account.
 
