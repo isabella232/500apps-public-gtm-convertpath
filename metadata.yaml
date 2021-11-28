@@ -1,0 +1,6 @@
+homepage: "https://convertpath.com"
+documentation: ""
+versions:
+  # First Release
+  - sha: 6cfc0324bad05aaa387c4cd9edc6173db3360cf9
+    changeNotes: Initial Release.
