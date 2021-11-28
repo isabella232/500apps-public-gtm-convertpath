@@ -1,5 +1,5 @@
 # 500apps ConvertPath
-ConvertPath is an application for building smart website popups to personalise your website. One can create customised popups or use the in app templates to show a right message at the right time. One can create different types of popups like modal, noty, sitebar, js etc and configure settings like time, place and frequency a popup has to appear on a website. Popups help in capturing more leads and sales, improve subscription rates and increase visitors engagement. ConvertPath not only makes it easy to create and manage popups but also capture details of the website visitors who interacted with those popups. Get started by creating flows, adding actions and conditions to define the rules for interactive popups.
+Convert more visitors into customers with smart website popups, text personalization,  geo-targeting, help wizards, and a lot more. Create customised popups or use the in-app templates to show the right message at the right time - modal, noty, sitebar, carousel, and js. 
 
 1. Sign in to your Google account.
 
@@ -11,7 +11,7 @@ ConvertPath is an application for building smart website popups to personalise y
 
 5. Read through the GTM Terms of Service. Click Yes to accept them and continue.
 
-6. You will get a container with a code snippet. Copy the code and paste it into every page of your site in the recommended places. Click Ok to close the 
+6. You will get a container with a code snippet. Copy the code and paste it into every page of your site in the recommended places. Click OK to close the 
 code snippet box and finish setting up the GTM manager and your first container.
 
 
@@ -19,9 +19,8 @@ code snippet box and finish setting up the GTM manager and your first container.
 
  
 ### Installation
-Adding the Convertpath tag to your website once you're logged in to your account with the container, it's time to add a new tag with the ConvertPath tracking code inside it. To do so, follow these steps
 
-1. In the Google Tag Manager Home, click on the New Tag tile.
+1. In the Google Tag Manager Home, click on the New Tag.
 
 2. Click on the Tag Configuration tile and search for our community template '500apps ConvertPath (Smart Website Popups)' in the 'Community Template Gallery'.
 
@@ -49,6 +48,6 @@ Contact our support team through “Live Chat” or “Help us improve” option
 ![alt text](https://infinity.500apps.com/img/pushninja/GTM-Image-3.png)
 
 
-Alternatively, you can contact us through mail at feedback@500apps.com
+Alternatively, you can contact us through mail at support@500apps.com
 Report a bug, file a feature request or send a pull request in the issue tracker.
 
