@@ -14,7 +14,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "500apps ConvertPath",
+  "displayName": "500apps - ConvertPath",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
